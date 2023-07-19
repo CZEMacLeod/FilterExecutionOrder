@@ -1,0 +1,27 @@
+GET http://localhost:27711/api/enum/array
+Accept: application/json
+
+###
+
+GET http://localhost:27711/api/enum/arraytrunc
+Accept: application/json
+
+###
+
+GET http://localhost:27711/api/enum/lazy
+Accept: application/json
+
+###
+
+GET http://localhost:27711/api/enum/lazytrunc
+Accept: application/json
+
+###
+
+GET http://localhost:27711/api/enum/lazydata
+Accept: application/json
+
+###
+
+GET http://localhost:27711/api/enum/data
+Accept: application/json
